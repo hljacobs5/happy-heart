@@ -64,6 +64,7 @@ body {
   transform: rotate(90deg);
   width: 250px;
   height: 200px;
+  margin-top: 10px;
 }
 
 .dyecolors
@@ -169,3 +170,47 @@ body {
   width: 250px;
   height: 200px;
 }
+
+.cream
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+  margin-top: 10px;
+}
+
+.mix{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+}
+
+.sb1
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+}
+
+.sb2
+{
+  width: 200px;
+  height: 250px;
+
+}
+
+.cookiedough
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+  margin-top: 10px;
+}
+
+.cookies
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+}
+
