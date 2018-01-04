@@ -19,8 +19,41 @@ h1 {
   margin-top: -150px;
   font-size: 60px;
   font-style: sans-serif;
+
 }
 
 body {
   background-color: #EC7063;
+}
+.in-post-image
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+  margin-top: 10px;
+}
+.seasoned-chicken
+  {
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+}
+.allingredients
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+}
+
+.finishedincooker
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+}
+.dish
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
 }
