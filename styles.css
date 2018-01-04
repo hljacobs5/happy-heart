@@ -56,4 +56,116 @@ body {
   transform: rotate(90deg);
   width: 250px;
   height: 200px;
+  margin-top: 60px;
+}
+
+.purpledye 
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+}
+
+.dyecolors
+  {
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+}
+
+.makingwc
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+}
+
+.finishedwc
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+}
+
+.wccolors
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+}
+
+.finished1
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+  margin-top: 60px;
+}
+
+.finished2
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+  margin-top: 60px;
+}
+
+.cookedonions
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+  margin-top: 30px;
+}
+
+.cutbread
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+}
+
+.sourcreaminbread
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+}
+
+.cheeseinbread
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+}
+
+.cookedbread
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+  margin-top: 60px;
+}
+
+.finishedbread
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+  margin-top: 60px;
+}
+
+.finishedcheesecake
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
+  margin-top: 30px;
+}
+
+.cheesecakepiece
+{
+  transform: rotate(90deg);
+  width: 250px;
+  height: 200px;
 }
