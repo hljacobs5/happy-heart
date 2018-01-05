@@ -5,14 +5,19 @@ body {
 
 ul {
   text-align: center;
-  margin-top: 60px;
-  border: black;
+  border: 10px solid black;
+  width: 50%;
+  margin-left: 300px;
 }
 
 li {
     display: inline;
-    color: #dece23;
-   }
+  }
+
+li a {
+    color: white;
+  }
+
 
 h1 {
   text-align: center;
@@ -213,4 +218,5 @@ body {
   width: 250px;
   height: 200px;
 }
+
 
