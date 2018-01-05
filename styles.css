@@ -2,26 +2,36 @@ body {
   color: white;
   background-color: white;
 }
-
 ul {
-  text-align: center;
-  border: 10px solid black;
-  width: 50%;
-  margin-left: 300px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 75%;
+    margin-left: 200px;
 }
 
 li {
-    display: inline;
-  }
+    float: left;
+}
 
 li a {
+    display: block;
     color: white;
-  }
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
 
 
 h1 {
   text-align: center;
-  margin-top: -150px;
+
   font-size: 60px;
   font-style: sans-serif;
 
